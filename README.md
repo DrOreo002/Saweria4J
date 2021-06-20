@@ -21,5 +21,4 @@ new SaweriaClient(MY_STREAM_KEY, new SaweriaEventHandler() {
 
     }
 }).start();
-TimeUnit.SECONDS.sleep(30);
 ```
